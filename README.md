@@ -44,13 +44,11 @@ Feel free to adjust the look and feel of the platform as you wish. You can:
 - Customize the network stats display.
 - Integrate additional tools if required.
 
-However, **do not change the API structure**, as it's powered by Ribbit’s code. Altering the API may disrupt data retrieval and affect the functionality of the platform.
+However, **do not change the API structure**, as it's powered by Ribbit’s code and PepeBlocks API. Altering the API provider may disrupt data retrieval and affect the functionality of the platform.
 
 ## 📡 API Usage:
 
-The platform includes an API for fetching real-time stats and network data. **Important:** Please leave the API endpoints and keys as they are, as any modifications could cause issues with data retrieval. 
-
-You can access the API from your server to pull live data and integrate it into your own systems.
+The platform includes an API by PepeBlocks for fetching real-time stats and network data. **Important:** Please leave the API endpoints as they are, as any modifications could cause issues with data retrieval. 
 
 ## 🔒 Security:
 
